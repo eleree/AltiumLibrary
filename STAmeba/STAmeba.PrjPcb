@@ -156,6 +156,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBTGHPSR
 
+[Document8]
+DocumentPath=STAmeba.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BVWBBMSQ
+
 [SearchPath1]
 Path=..\..\..\..\Hardware\AltiumLibrary\*.*
 IncludeSubFolders=1
